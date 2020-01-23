@@ -1,0 +1,61 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.menu{
+    background-color: rgb(15, 15, 129);  
+    padding-left: 5%;
+    padding-top: 0.5%; 
+    padding-bottom: 0.5%; 
+}
+.icono{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(15, 15, 129) ;
+}
+
+.portada{
+    background-image: url(../images/cancha_atlanta_aerea_2.png) ;
+    background-position-y: 80%;
+    background-repeat: no-repeat;
+    /*--------- background-attachment: fixed; ---------*/
+    background-size: 100%;
+    filter: contrast(100%);
+    position: relative;
+}
+.portada img{
+    visibility: hidden;
+    max-height: 520px;
+    
+}
+
+.img-portada{
+    position: fixed;
+}
+
+
+.redes{
+    background-color: rgb(15, 15, 129);
+    padding: 1% 45%;
+}
+
+
+.icon{
+    color: white;
+    font-size: 2rem;
+}
+#atlanta{
+    background-color: white;
+    filter: drop-shadow( 0px -40px 40px rgb(8, 8, 8));
+}
+.centrado{
+   padding: 5% 10%;
+    
+}
+
+
+
+
